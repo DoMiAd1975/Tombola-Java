@@ -1,6 +1,2 @@
-Scrivere una applicazione  per calcolare il pagamento in un'applicazione che supporta diverse modalità di pagamento (per esempio: pagamento tramite carta di credito, pagamento tramite PayPal, pagamento tramite bonifico bancario).
-
-Passaggi:
-Creiamo un'interfaccia PaymentStrategy che definisce un metodo pay().
-Creiamo diverse classi che implementano questa interfaccia (come CreditCardPayment, PayPalPayment, ecc.).
-Creiamo una classe ShoppingCart che utilizza un oggetto PaymentStrategy per eseguire il pagamento.
+Sviluppare in Java il gioco della tombola con l'ausilio degli Array.
+Generare 90 nummeri ordinati in ordine casuale all'interno di un array con il metodo a voi più congeniale, generare una cartella composta da 15 numeri ordinati non ripetuti ordinati dentro un array.
